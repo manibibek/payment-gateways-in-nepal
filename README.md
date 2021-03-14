@@ -1,6 +1,8 @@
 # Payment Gateways and Payment service providers in Nepal
 
-List of all Payment Gateway including their development and integration resources.
+List of all Payment Gateway and the development and integration resources are mentioned below. 
+
+The goal of this Repository is to help developers find all the necessary information to integrate Payment Gateways of Nepal into their platform. 
 
 ## Contents
 
@@ -17,17 +19,25 @@ List of all Payment Gateway including their development and integration resource
 - [Moru](#moru)
 - [nPay](#npay)
 
-## [Esewa](https://esewa.com.np)
+---
 
-Released: 2009: [Documentation](https://developer.esewa.com.np/#/)
+## [Esewa](https://esewa.com.np)
+eSewa is a subsidiary company of F1Soft International, a leading FinTech company of Nepal. Team eSewa has been working tirelessly to achieve its vision to create a cashless economy since 2009. For this, the company has onboarded more than 150k merchants, 50+ Banks and Financial Institutions (BFIs) and established a wider network of agents nationwide.
+  
+Released: 2009  
+[Documentation](https://developer.esewa.com.np/#/)
 
 **Plugins Available:**
 
 - [Woocommerce](https://wordpress.org/plugins/esewa/)
+- [Android SDK](https://developer.esewa.com.np/#/android)
+- [IOS SDK](https://developer.esewa.com.np/#/ios)
 
 ## [Khalti](https://khalti.com)
 
-Released: 2017: [Documentation](https://docs.khalti.com/)
+Khalti is a payment gateway, digital wallet and API provider system for various online services for Nepal.  You can receieve payments from various eBanking users of Khalti Partner banks, SCT/VISA card holders, ConnectIPS users with just one integration.  
+Released: 2017  
+[Documentation](https://docs.khalti.com/)
 
 **Plugins Available:**
 
@@ -36,6 +46,9 @@ Released: 2017: [Documentation](https://docs.khalti.com/)
 - [OpenCart](https://github.com/khalti/khalti-opencart)
 - [Prestashop](https://github.com/khalti/khalti-prestashop)
 - [WHMCS](https://github.com/khalti/whmcs-khaltigateway-plugin)
+- [Javascript SDK](https://github.com/khalti/khalti-sdk-web)
+- [Android SDK](https://github.com/khalti/khalti-sdk-android)
+- [IOS SDK](https://github.com/khalti/khalti-sdk-ios)
 
 ## [Fonepay](https://www.fonepay.com/)
 
