@@ -72,3 +72,5 @@ Released in Nepal: 2020
 ## [Moru](https://moru.com.np/)
 
 ## [nPay](https://npay.com.np/)
+**something random**
+- this is a a test.
